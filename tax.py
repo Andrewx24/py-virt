@@ -1,0 +1,1 @@
+a= int(input("How much is your income? "))
